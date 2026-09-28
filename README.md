@@ -3,7 +3,6 @@
 - 🤙 Hello, my name is Jeremy Sibayan.
 - 👨‍💻 I'm interested in learning frontend and backend development.
 - 💻 I'm currently an undergraduate student studying for my Bachelor's degree in Computer Engineering @ SDSU.
-- ⚓ On track for Navy OCS to commission as a Maritime Cyber Warfare Officer (MCWO)
 
 <!--
 **jeremysibayan/jeremysibayan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
